@@ -10,3 +10,7 @@ cd ..
 cmake --build build/
 ./build/main
 ```
+Run test:
+```
+./build/unit_tests
+```
